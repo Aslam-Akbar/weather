@@ -54,7 +54,7 @@ Follow these steps to run the app on your local machine:
 
 ## 🎯 Live Demo
 
-🌍 Experience the React Weather App in action: [Live Demo](https://react-weather-app-aslam.netlify.app)
+🌍 Experience the React Weather App in action: [Live Demo](https://weatherbyaslam.netlify.app/)
 
 ---
 
@@ -63,7 +63,7 @@ Follow these steps to run the app on your local machine:
 Created with ❤️ by **[Mohamed Aslam A](https://github.com/Aslam-Akbar)** as a final project for the SheCodes React workshop.
 
 💼 **GitHub:** [Aslam-Akbar](https://github.com/Aslam-Akbar)  
-🔗 **LinkedIn:** [Mohamed Aslam A](https://www.linkedin.com/in/mohamedaslama)
+🔗 **LinkedIn:** [Mohamed Aslam A](https://www.linkedin.com/in/mohamed-aslam07/)
 
 ---
 

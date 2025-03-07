@@ -2,7 +2,7 @@
 
 This is a sleek and user-friendly weather app developed using React.js as a final project for the SheCodes React workshop. It allows users to search for weather conditions in any city worldwide and displays real-time weather information. The app fetches data using the SheCodes Weather API.
 
-![Weather App Screenshot](https://github.com/Aslam-Akbar/weather/assets/demo-image.png)
+![Weather App Screenshot](https://github.com/Aslam-Akbar/weather/blob/main/images/Screenshot%20(255).png)
 
 ---
 

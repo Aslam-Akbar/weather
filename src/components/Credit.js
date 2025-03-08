@@ -6,7 +6,7 @@ export default function Credit() {
       <p>
         Coded by
         <a href="https://mohamed-aslam.netlify.app"> Mohamed Aslam A</a>,{" "}
-        <a href="https://github.com/">Open sourced on Github.</a> Hosted on
+        <a href="https://github.com/Aslam-Akbar/weather">Open sourced on Github.</a> Hosted on
         Netlify
       </p>
     </div>
